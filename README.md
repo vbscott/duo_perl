@@ -16,11 +16,11 @@ What's here:
 * `DuoWeb.pm` - Duo Perl SDK to be integrated with your web application
 * `test.pl` -  Unit tests for our SDK
 
-# Usage
+## Usage
 
 Developer documentation: <http://www.duosecurity.com/docs/duoweb>
 
-# Support
+## Support
 
 Report any bugs, feature requests, etc. to us directly:
 support@duosecurity.com
